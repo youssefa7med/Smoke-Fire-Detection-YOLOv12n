@@ -511,7 +511,7 @@ We extend our gratitude to:
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/Smoke-Fire-Detection-YOLOv12n/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/Smoke-Fire-Detection-YOLOv12n/discussions)
-- **Email**: [Your Email] (optional)
+- **Email**: youssef111ahmed111@gmail.com
 
 For questions, suggestions, or support, please open an issue on GitHub. We aim to respond within 24-48 hours.
 
